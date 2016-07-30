@@ -1,0 +1,133 @@
+*{margin:0;padding:0;font-family:微软雅黑;}
+#wrap {
+	background:#221E5F;
+	margin:0 auto;
+    position:relative;
+}
+#top
+{
+    
+}
+#middle
+{
+    color: #fff;
+    font-size: 22px;
+    overflow:hidden;
+}
+#bottom
+{
+    position:relative;
+    width:100%;
+    color:#fff;
+    text-align: center;
+    background-color: #221E5F;
+}
+#links
+{
+    padding-left: 75px;
+    padding-top: 100px;
+}
+#pic
+{
+    position:absolute;
+    top:20px;
+    margin-left:30px;
+}
+#pic1
+{
+    position:absolute;
+    top:75px;
+    margin-left:257px;
+}
+.inform
+{
+    margin-top:10px;
+    width:220px;
+    height:300px;
+    color: #fff;
+    padding-left: 30px;
+}
+.box
+{
+    margin-top:40px;
+    padding-left: 30px;
+    width:240px;
+    height:300px;
+    color:#fff;
+}
+.box1
+{
+    position:absolute;
+    top:10px;
+    margin-left:300px;
+    width:240px;
+    height:300px;
+    color: #fff;
+}
+.box2
+{
+    position:absolute;
+    top:350px;
+    margin-left:300px;
+    width:240px;
+    height:300px;
+    color:#fff;
+}
+.box3
+{
+    position:absolute;
+    top:10px;
+    margin-left:570px;
+    width:240px;
+    height:300px;
+    color:#fff;
+}
+.box4
+{
+    position:absolute;
+    top:350px;
+    margin-left:570px;
+    width:240px;
+    height:300px;
+    color:#fff;
+}
+.box5
+{
+    position:absolute;
+    top:10px;
+    margin-left:850px;
+    width:240px;
+    height:300px;
+    color:#fff;
+}
+a{text-decoration:none;color:#fff;}
+a:hover{color:#CD0000;}
+p{padding-bottom: 15px;}
+li{font-size:15px;padding-top: 12px;text-align: left;position:relative;}
+ul{text-align: center;padding-top:5px;list-style:none;margin: 0px;
+    padding: 0px;}
+.left{width:200px;
+    height:720px; background-color: #221E5F; float:left;}
+#right
+{
+    display:block;
+    width: 1290px; 
+    height:720px; 
+    background-color: #221E5F; 
+    float:right;
+    position:relative;
+}
+.btn-slide
+{
+    background-color: #221E5F;
+    position:absolute;
+    bottom: 120px;
+    left:35px;
+    text-align: center;
+    float: left;
+    font-size: 25px;
+    height:50px;
+    width:120px;
+    display:block;
+    color:#fff;
+}
